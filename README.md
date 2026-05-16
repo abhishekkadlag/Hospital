@@ -1,4 +1,4 @@
-# Hospital
+# Hospital project
 Hospital Management system
 Project demo: https://techwebdots.azurewebsites.net/
 Hospital Management System
